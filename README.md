@@ -1,3 +1,5 @@
 ### Top 100 LeetCode CHallenges
 
-# README to cometh..
+# README
+
+### A simple repository containing personal Leetcode challenges completed and improved upon. 
